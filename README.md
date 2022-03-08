@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gowri Muralee
-- 👀 I’m interested in Java, Python, MySQL
+- Hi There 👋
+- 👀 I’m interested in Java, Python, MySQL, JMeter
 - 🌱 I’m currently working as Junior Consultant in Sparta Global
 
 <!---
