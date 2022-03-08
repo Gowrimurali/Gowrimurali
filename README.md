@@ -1,5 +1,5 @@
-- Hi There 👋
-- 👀 I’m interested in Java, Python, MySQL, JMeter
+- # Hi There 👋
+- 👀 I’m interested in Java, Python, MySQL
 - 🌱 I’m currently working as Junior Consultant in Sparta Global
 
 <!---
