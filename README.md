@@ -1,4 +1,7 @@
 # Hi There 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="100"/>
+</div>
 - I have experience in software development as well as testing.
 - I’m currently working as Junior Consultant in Sparta Global.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-muraleedharan-babyamma)
