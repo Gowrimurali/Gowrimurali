@@ -1,7 +1,7 @@
 # Hi There 👋
 - I have experience in software development as well as testing.
 - I’m currently working as Junior Consultant in Sparta Global.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-muraleedharan-babyamma)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
